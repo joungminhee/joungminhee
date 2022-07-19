@@ -10,7 +10,7 @@ I want to be a promising engineer.
 I am very active and like to collaborate.
     
  
-
+ 
 ## 🛠 Tech Stacks 🛠
  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -20,7 +20,7 @@ I am very active and like to collaborate.
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
   
-
+ 
 
 ## 💻 Communication Tools 💻
 
