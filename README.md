@@ -19,6 +19,7 @@ I am very active and like to collaborate.
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
 <br/>
+
 ## 💻 Communication Tools 💻
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
