@@ -8,6 +8,8 @@
 Hi there! i'm a Data Engineer.
 I want to be a promising engineer.
 I am very active and like to collaborate.
+ 
+ 
 
 ## 🛠 Tech Stacks 🛠
  
@@ -16,6 +18,9 @@ I am very active and like to collaborate.
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?style=flat-square&logo=Visual Studio Code&logoColor&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+
+
+
 
 ## 💻 Communication Tools 💻
 
