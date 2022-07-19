@@ -8,10 +8,10 @@ I want to be a promising engineer.
 I am very active and like to collaborate.
 
 
-  
-## 💻 Tech Stacks 💻
-
+ 
 <div align="center">
+  
+💻 Tech Stacks 💻
   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=Oracle&logoColor&logoColor=white"/></a>
