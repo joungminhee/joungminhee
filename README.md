@@ -5,8 +5,8 @@
  
 ## 🌷 Data Engineer🌷
 
-Hi there! i'm a Data Engineer.
-I want to be a promising engineer.
+Hi there! i'm a Data Engineer. 
+I want to be a promising engineer. 
 I am very active and like to collaborate.
     
  
