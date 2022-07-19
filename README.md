@@ -1,4 +1,4 @@
-# Hi there 👋
+![header](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## 💻 Tech Stacks 💻
-<img src="https://img.shields.io/badge/python-#3766AB?style=flat-square&logo=Python&logoColor=green"/></a>
+
