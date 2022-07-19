@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=606060&height=300&section=header&text=Hi✋there!&fontsize=90)
+#Hi✋there!
  
-
 <div align="center">
  
-## 🌱 Data Engineer 🌿
+### 🌱 Data Engineer 🌿
 
 Hi there! i'm a Data Engineer.<br/>
 I want to be a promising engineer.<br/>
