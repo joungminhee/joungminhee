@@ -1,4 +1,3 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Joungminhee&fontsize=90)
 
 
@@ -12,10 +11,12 @@ I am very active and like to collaborate.
   
 ## 💻 Tech Stacks 💻
 
+<div align="center">
+  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=Oracle&logoColor&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?style=flat-square&logo=Visual Studio Code&logoColor&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
- </div>
+</div>
