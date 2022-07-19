@@ -11,7 +11,7 @@ I am very active and like to collaborate.
  
 <br/>
 
-🛠 Tech Stacks 🛠
+### 🛠 Tech Stacks 🛠
  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=Oracle&logoColor&logoColor=white"/></a>
@@ -21,7 +21,7 @@ I am very active and like to collaborate.
 
 <br/>
 
-💻 Communication Tools 💻
+### 💻 Communication Tools 💻
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
