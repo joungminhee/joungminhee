@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Joungminhee&fontsize=90)
  
 
+<div align="center">
  
 ## 🌷 Data Engineer🌷
 
-<div align="center">
 Hi there! i'm a Data Engineer.
 I want to be a promising engineer.
 I am very active and like to collaborate.
