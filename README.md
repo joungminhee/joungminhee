@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Joungminhee&fontsize=90)
 
 <div align="center">
-## 🌷 Data Engineer🌷
+🌷 ##Data Engineer🌷
 
 Hi there! i'm a Data Engineer.
 I want to be a promising engineer.
 I am very active and like to collaborate.
 
-  </div>
+ </div>
+  
 ## 💻 Tech Stacks 💻
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
