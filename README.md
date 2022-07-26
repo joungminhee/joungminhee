@@ -2,10 +2,10 @@
  
 ## Hi✋there!
  
-### 🌱 Data Engineer 🌿
+### 🌱 Data Engineer & Analyst 🌿
 
-Hi there! i'm a Data Engineer.<br/>
-I want to be a promising engineer.<br/>
+Hi there! i'm a Data Engineer and Analyst.<br/>
+I want to be a promising person.<br/>
 I am very active and like to collaborate.
  
 <br/>
